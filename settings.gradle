@@ -7,3 +7,6 @@ include ':TorangRepository'
 project(':TorangRepository').projectDir = new File('./Repository/TorangRepository')
 include ':screen_filter'
 project(':screen_filter').projectDir = new File('./Filter')
+
+include ':screen_travelmode'
+project(':screen_travelmode').projectDir = new File('./TravelMode')

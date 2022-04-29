@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TorangScreenFilter.iml" filepath="$PROJECT_DIR$/.idea/modules/TorangScreenFilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TorangScreenFilter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TorangScreenFilter.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Filter/TorangScreenFilter.screen_filter.iml" filepath="$PROJECT_DIR$/.idea/modules/Filter/TorangScreenFilter.screen_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TravelMode/TorangScreenFilter.screen_travelmode.iml" filepath="$PROJECT_DIR$/.idea/modules/TravelMode/TorangScreenFilter.screen_travelmode.iml" />
     </modules>
   </component>
 </project>

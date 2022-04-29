@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/Core/TorangCore/torang_core" />
             <option value="$PROJECT_DIR$/Filter" />
             <option value="$PROJECT_DIR$/Repository/TorangRepository" />
+            <option value="$PROJECT_DIR$/TravelMode" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
