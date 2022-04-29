@@ -1,0 +1,9 @@
+rootProject.name = "TorangScreenFilter"
+include ':app'
+
+include ':torang_core'
+project(':torang_core').projectDir = new File('./Core/TorangCore/torang_core')
+include ':TorangRepository'
+project(':TorangRepository').projectDir = new File('./Repository/TorangRepository')
+include ':screen_filter'
+project(':screen_filter').projectDir = new File('./Filter')
