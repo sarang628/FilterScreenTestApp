@@ -3,11 +3,26 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TorangScreenFilter.TorangRepository.iml" filepath="$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TorangScreenFilter.TorangRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TorangScreenFilter.TorangRepository.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TorangScreenFilter.TorangRepository.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TorangScreenFilter.TorangRepository.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TorangScreenFilter.TorangRepository.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TorangScreenFilter.TorangRepository.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TorangScreenFilter.TorangRepository.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Core/TorangCore/torang_core/TorangCore.TorangScreenFilter.torang_core.iml" filepath="$PROJECT_DIR$/.idea/modules/Core/TorangCore/torang_core/TorangCore.TorangScreenFilter.torang_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Core/TorangCore/torang_core/TorangCore.TorangScreenFilter.torang_core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Core/TorangCore/torang_core/TorangCore.TorangScreenFilter.torang_core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Core/TorangCore/torang_core/TorangCore.TorangScreenFilter.torang_core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Core/TorangCore/torang_core/TorangCore.TorangScreenFilter.torang_core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Core/TorangCore/torang_core/TorangCore.TorangScreenFilter.torang_core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Core/TorangCore/torang_core/TorangCore.TorangScreenFilter.torang_core.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TorangScreenFilter.iml" filepath="$PROJECT_DIR$/.idea/modules/TorangScreenFilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TorangScreenFilter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TorangScreenFilter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TorangScreenFilter.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TorangScreenFilter.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TorangScreenFilter.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TorangScreenFilter.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TorangScreenFilter.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TorangScreenFilter.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Filter/TorangScreenFilter.screen_filter.iml" filepath="$PROJECT_DIR$/.idea/modules/Filter/TorangScreenFilter.screen_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Filter/TorangScreenFilter.screen_filter.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Filter/TorangScreenFilter.screen_filter.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Filter/TorangScreenFilter.screen_filter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Filter/TorangScreenFilter.screen_filter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Filter/TorangScreenFilter.screen_filter.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Filter/TorangScreenFilter.screen_filter.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TravelMode/TorangScreenFilter.screen_travelmode.iml" filepath="$PROJECT_DIR$/.idea/modules/TravelMode/TorangScreenFilter.screen_travelmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TravelMode/TorangScreenFilter.screen_travelmode.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TravelMode/TorangScreenFilter.screen_travelmode.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TravelMode/TorangScreenFilter.screen_travelmode.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TravelMode/TorangScreenFilter.screen_travelmode.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TravelMode/TorangScreenFilter.screen_travelmode.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TravelMode/TorangScreenFilter.screen_travelmode.unitTest.iml" />
     </modules>
   </component>
 </project>
